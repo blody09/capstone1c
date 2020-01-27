@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\obj\Debug\netcoreapp3.1\capstone_1_Blake.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\obj\Debug\netcoreapp3.1\capstone_1_Blake.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\obj\Debug\netcoreapp3.1\capstone_1_Blake.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\bin\Debug\netcoreapp3.1\capstone_1_Blake.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\obj\Debug\netcoreapp3.1\capstone_1_Blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\capstone_1_Blake\capstone_1_Blake\obj\Debug\netcoreapp3.1\capstone_1_Blake.pdb

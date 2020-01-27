@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "capstone_1_Blake/1.0.0": {
+        "runtime": {
+          "capstone_1_Blake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capstone_1_Blake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
