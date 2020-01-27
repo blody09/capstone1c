@@ -16,16 +16,12 @@ namespace capstone_1_Blake
                 var pigLatin = GetSentenceInPigLatin(sentence);
                 Console.WriteLine(pigLatin);
 
-                string noEntry = "";
+                
 
-                while(!string.IsNullOrEmpty(noEntry))
-                {
+                
                     //write lines to console from here
                    
-                    
-
-                    Console.WriteLine("Invalid entry try again.");
-                    Console.ReadLine();
+               
 
                     userContinue = "";
                     while (userContinue != "y" && userContinue != "n")
@@ -34,7 +30,7 @@ namespace capstone_1_Blake
                         userContinue = Console.ReadLine().ToLower();
 
                     }
-                }
+                
             }
 
 
